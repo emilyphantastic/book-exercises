@@ -1,3 +1,6 @@
+install.packages("shiny")
+library("shiny")
+
 # Exercise 2
 In this exercise, you'll practice building a simple Shiny application with a UI and Server by creating an interactive cost calculator:
 
